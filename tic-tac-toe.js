@@ -3,4 +3,6 @@
 var namespace = "http://www.w3.org/2000/svg"
 function topleft() {
   var Shape= document.createElementNS(namespace, "circle")
+  var canvas=document.getElementById("game-board")
+  
 }
